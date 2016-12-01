@@ -1,4 +1,5 @@
-
+# Datatypes function to compares arguments and return 
+# results based on the argument provided.
 def data_type(A):
 
 	if type(A) == str:
